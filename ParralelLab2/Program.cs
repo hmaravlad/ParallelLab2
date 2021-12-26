@@ -1,11 +1,11 @@
 ﻿using Akka.Actor;
-using ParralelLab2.Actors;
-using ParralelLab2.Utils;
+using ParallelLab2.Actors;
+using ParallelLab2.Utils;
 using System;
 using System.Collections.Generic;
 
 
-namespace ParralelLab2
+namespace ParallelLab2
 {
     class Program
     {

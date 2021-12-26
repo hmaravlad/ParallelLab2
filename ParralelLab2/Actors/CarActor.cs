@@ -1,14 +1,14 @@
 ﻿using Akka.Actor;
-using ParralelLab2.Entities;
-using ParralelLab2.Messages;
-using ParralelLab2.Utils;
+using ParallelLab2.Entities;
+using ParallelLab2.Messages;
+using ParallelLab2.Utils;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ParralelLab2.Actors
+namespace ParallelLab2.Actors
 {
     class CarActor : ReceiveActor
     {

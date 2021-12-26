@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ParralelLab2.Entities
+namespace ParallelLab2.Entities
 {
     class ParkingLot
     {
